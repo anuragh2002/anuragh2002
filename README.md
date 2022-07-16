@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 
 <!--
@@ -6,7 +6,7 @@
 
 Here are some ideas to get you started:
 -->
-### About Me 
+### About Me 👨‍💻👦
 
 - 💼 I’m currently working as a Technical Content Writer @ Pepper Content 
 - 🌱 I’m currently learning DSA in Java and exploring JS
