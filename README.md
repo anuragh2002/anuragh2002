@@ -6,12 +6,12 @@
 
 Here are some ideas to get you started:
 -->
-### About Me 👨‍💻👦
+### About Me 👨‍💻
 
 - 💼 I’m currently working as a Technical Content Writer @ Pepper Content 
 - 🌱 I’m currently learning DSA in Java and exploring JS
 - 💬 Ask me about Web Dev and DSA 
-- 😄 Pronouns: He/Him 
+- 👦 Pronouns: He/Him 
 
 ### Tech Stack
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
