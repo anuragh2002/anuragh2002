@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 
 ### About Me 
 
-- 🔭 I’m currently working a Technical Content Writer @ Pepper Content 
+- 💼 I’m currently working as a Technical Content Writer @ Pepper Content 
 - 🌱 I’m currently learning DSA in Java and exploring JS
 - 💬 Ask me about Web Dev and DSA 
 - 😄 Pronouns: He/Him 
