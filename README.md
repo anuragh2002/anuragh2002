@@ -28,4 +28,4 @@ Here are some ideas to get you started:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anuragh-barua-796b05135)
 
 In my free time I
-![Coding](https://giphy.com/gifs/R03zWv5p1oNSQd91EP)
+![Coding](https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif)
