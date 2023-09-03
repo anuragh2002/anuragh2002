@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 -->
 ### About Me 👨‍💻
 
-- 💼 I’m currently working as a Technical Content Writer @ Pepper Content 
-- 🌱 I’m currently learning DSA in Java and exploring JS
+- 💼 I’m currently interning as a Frontend Web Developer @ The Mission Hospital 
+- 🌱 I’m currently learning DSA in Java and exploring React JS
 - 💬 Ask me about Web Dev and DSA 
 - 👦 Pronouns: He/Him 
 
@@ -23,6 +23,16 @@ Here are some ideas to get you started:
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SAAS](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![ReactJS](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+
+
 
 ### Reach me here 👇 
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/AnuraghBarua)
